@@ -11,6 +11,12 @@ Un apasionado del análisis de datos con experiencia en el sector bancario y con
 - Aprendizaje automático: Scikit-learn
 - Bases de datos: MySQL, MongoDB
 
+## Proyectos Destacados
+
+- Modelo predictivo de la calificacion de usuarios de Rotten Tomatoes (Projects/IronHack-Proyecto Semana 5/)
+- Recomendador de anime basado en una serie de TV (Projects/IronHack-Proyecto Final/)
+- Modelo Predictivo Sobre el Videojuego FIFA 21 (Projects/IronHack-FIFA_Project/)
+
 ## Certificaciones
 
 - Certificado en Data Analytics por la empresa IronHack [https://www.credential.net/36564fe6-8ef4-46fa-930f-5532af1244f0]
