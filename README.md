@@ -6,10 +6,9 @@ Un apasionado del análisis de datos con experiencia en el sector bancario y con
 
 ## Habilidades técnicas
 
-- Análisis de datos: SQL, Python
+- Análisis de datos: SQL, Python, Excel
 - Visualización de datos: Tableau, Power BI, Matplotlib, Seaborn
 - Aprendizaje automático: Scikit-learn
-- Minería de datos: Excel 
 - Bases de datos: MySQL, MongoDB
 
 ## Certificaciones
