@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jesus David
+# ¡Hola! 👋 Soy David
 
 ## Sobre mí
 
