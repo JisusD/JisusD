@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy David
+# ¡Hola! 🌟 Soy David
 
 ## Sobre mí
 
