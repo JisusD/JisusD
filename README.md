@@ -7,6 +7,7 @@ Un apasionado del análisis de datos con experiencia en el sector bancario y con
 ## Habilidades técnicas
 
 - Análisis de datos: SQL, Python, Excel
+- Comoputación en la nube: Microsoft Azure
 - Visualización de datos: Tableau, Power BI, Matplotlib, Seaborn
 - Aprendizaje automático: Scikit-learn
 - Bases de datos: MySQL, MongoDB
