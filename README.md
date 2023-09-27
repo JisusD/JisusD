@@ -21,5 +21,6 @@ Un apasionado del análisis de datos con experiencia en el sector bancario y con
 ## Certificaciones
 
 - Certificado en Data Analytics por la empresa IronHack [https://www.credential.net/36564fe6-8ef4-46fa-930f-5532af1244f0]
+- Certificado en Microsoft Learn AI Skills Challenge de Microsoft
 
 ¡No dudes en contactarme si quieres colaborar en un proyecto o discutir ideas! Estoy abierto a nuevas oportunidades y siempre buscando aprender más sobre el fascinante mundo de los datos.
