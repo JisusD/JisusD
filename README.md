@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Un apasionado del análisis de datos con experiencia en el sector bancario y conocimientos en Python, bases de datos y técnicas de aprendizaje automático. Estoy listo para enfrentar nuevos desafíos y seguir aprendiendo en cualquier entorno empresarial. Mi dedicación y habilidades técnicas me permiten transformar datos en información valiosa para la toma de decisiones empresariales.
+Un apasionado del análisis de datos con experiencia en el sector bancario y conocimientos en Python, bases de datos y técnicas de aprendizaje automático. Estoy listo para enfrentar nuevos desafíos y seguir aprendiendo en cualquier entorno empresarial. Mi dedicación y habilidades técnicas me permiten transformar datos en información valiosa para la toma de decisiones.
 
 ## Habilidades técnicas
 
