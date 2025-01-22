@@ -2,12 +2,12 @@
 
 ## Sobre mí
 
-Un apasionado del análisis de datos con experiencia en el sector bancario y conocimientos en Python, bases de datos y técnicas de aprendizaje automático. Estoy listo para enfrentar nuevos desafíos y seguir aprendiendo en cualquier entorno empresarial. Mi dedicación y habilidades técnicas me permiten transformar datos en información valiosa para la toma de decisiones.
+Científico de Datos con experiencia en el sector bancario, además de en la recopilación, análisis y visualización de datos, enfocado en optimizar la toma de decisiones. En mi rol actual, lidero el desarrollo de modelos predictivos y la creación de sistemas de WebScraping para realizar análisis de mercado, proporcionando datos clave para la empresa. Poseo un enfoque analítico y una gran capacidad para transformar datos complejos en soluciones prácticas y accionables. Busco un puesto desafiante donde pueda aplicar y expandir mis habilidades técnicas y analíticas, contribuyendo al éxito y crecimiento continuo de la organización
 
 ## Habilidades técnicas
 
 - Análisis de datos: SQL, Python, Excel
-- Comoputación en la nube: Microsoft Azure
+- Computación en la nube: Microsoft Azure
 - Visualización de datos: Tableau, Power BI, Matplotlib, Seaborn
 - Aprendizaje automático: Scikit-learn
 - Bases de datos: MySQL, MongoDB
