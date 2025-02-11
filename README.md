@@ -2,15 +2,17 @@
 
 ## Sobre mí
 
-Científico de Datos con experiencia en el sector bancario, además de en la recopilación, análisis y visualización de datos, enfocado en optimizar la toma de decisiones. En mi rol actual, lidero el desarrollo de modelos predictivos y la creación de sistemas de WebScraping para realizar análisis de mercado, proporcionando datos clave para la empresa. Poseo un enfoque analítico y una gran capacidad para transformar datos complejos en soluciones prácticas y accionables. Busco un puesto desafiante donde pueda aplicar y expandir mis habilidades técnicas y analíticas, contribuyendo al éxito y crecimiento continuo de la organización
+Científico de Datos con experiencia en el sector bancario, especializado en la recopilación, análisis y visualización de datos para optimizar la toma de decisiones. En mi rol actual, lidero el desarrollo de modelos predictivos y la implementación de sistemas de Web Scraping para el análisis de mercado, proporcionando información clave para la empresa. Además, automatizo y depuro archivos para mejorar su presentación y facilitar su análisis.
+Me caracterizo por un enfoque analítico y la capacidad de transformar datos complejos en soluciones prácticas y accionables. Busco un desafío profesional donde pueda aplicar y expandir mis habilidades técnicas y analíticas, contribuyendo al crecimiento y éxito de la organización
 
 ## Habilidades técnicas
 
 - Análisis de datos: SQL, Python, Excel
 - Computación en la nube: Microsoft Azure
 - Visualización de datos: Tableau, Power BI, Matplotlib, Seaborn
-- Aprendizaje automático: Scikit-learn
+- Aprendizaje automático: Scikit-learn, 
 - Bases de datos: MySQL, MongoDB
+- Web Scraping: BeautifulSoup, Selenium, RegEx 
 
 ## Proyectos Destacados
 
