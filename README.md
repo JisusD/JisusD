@@ -1,5 +1,3 @@
-# ¡Hola! 🌟 Soy David
-
 ## Sobre mí
 
 Científico de Datos con experiencia en el sector bancario, especializado en la recopilación, análisis y visualización de datos para optimizar la toma de decisiones. En mi rol actual, lidero el desarrollo de modelos predictivos y la implementación de sistemas de Web Scraping para el análisis de mercado, proporcionando información clave para la empresa. Además, automatizo y depuro archivos para mejorar su presentación y facilitar su análisis.
