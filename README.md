@@ -1,16 +1,18 @@
 ## Sobre mí
 
-Científico de Datos con experiencia en el sector bancario, especializado en la recopilación, análisis y visualización de datos para optimizar la toma de decisiones. En mi rol actual, lidero el desarrollo de modelos predictivos y la implementación de sistemas de Web Scraping para el análisis de mercado, proporcionando información clave para la empresa. Además, automatizo y depuro archivos para mejorar su presentación y facilitar su análisis.
-Me caracterizo por un enfoque analítico y la capacidad de transformar datos complejos en soluciones prácticas y accionables. Busco un desafío profesional donde pueda aplicar y expandir mis habilidades técnicas y analíticas, contribuyendo al crecimiento y éxito de la organización
+Científico de Datos con 3 años de experiencia en el sector automotriz, especializado en ETL, análisis de mercado y modelos predictivos. Experto en transformar grandes volúmenes de datos en insights accionables para la alta dirección. He liderado proyectos de scraping de competencia, creación de bases de datos en MySQL y desarrollo de dashboards en Excel y Python, logrando optimizar decisiones estratégicas de precios y ventas. Con experiencia en capacitación de equipos y liderazgo temporal de área, busco aplicar mis habilidades para potenciar la analítica de clientes y mejorar la oferta de servicios.
 
 ## Habilidades técnicas
 
-- Análisis de datos: SQL, Python, Excel
-- Computación en la nube: Microsoft Azure
-- Visualización de datos: Tableau, Power BI, Matplotlib, Seaborn
-- Aprendizaje automático: Scikit-learn, 
-- Bases de datos: MySQL, MongoDB
-- Web Scraping: BeautifulSoup, Selenium, RegEx 
+- Análisis de Datos: Recopilación, procesamiento y análisis de grandes volúmenes de datos utilizando técnicas estadísticas y de machine learning para descubrir patrones y tendencias.
+
+- Desarrollo de Modelos Predictivos: Creación y validación de modelos predictivos y algoritmos utilizando herramientas de machine learning.
+
+- Limpieza y Transformación de Datos: Preparación y limpieza de datos para garantizar su calidad, eliminando valores atípicos, manejando valores nulos y transformando datos en formatos utilizables.
+
+- Visualización de Datos: Generación de visualizaciones claras y efectivas para comunicar hallazgos complejos.
+
+- Interpretación y Comunicación de Resultados: Presentación de los resultados del análisis a los líderes de manera clara y comprensible, ofreciendo recomendaciones basadas en dato
 
 ## Proyectos Destacados
 
